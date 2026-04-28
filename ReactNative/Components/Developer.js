@@ -22,6 +22,8 @@ export default function Developer() {
         <Text style={styles.description}>
           Documentação
         {"\n\n"}Criação dos slides
+        {'\n\n'}Pesquisa de conteúdo
+        
         </Text>
       </View>
     </ScrollView>

@@ -33,3 +33,18 @@ export default function App() {
     </NavigationContainer>
   );
 }
+//CREATE TABLE fighters (
+//  id INT AUTO_INCREMENT PRIMARY KEY,
+//  name VARCHAR(100),
+//  nickname VARCHAR(100),
+//  age INT,
+ // weight_class VARCHAR(50),
+//  wins INT,
+//  losses INT,
+//  draws INT,
+//  style VARCHAR(50),
+//  organization VARCHAR(50),
+//  image_url TEXT,
+ // active BOOLEAN
+ // DELETED BOOLEAN DEFAULT FALSE
+//);
